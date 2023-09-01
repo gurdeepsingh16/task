@@ -1,0 +1,50 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.style1{
+    justify-content: center;
+    text-align: center; 
+    position: relative;
+}
+.style2{
+    border: solid;
+    background-color: rgba(84, 146, 84, 0.723);
+}
+.style3{
+    text-align: center;
+}
+.header-color{
+    background: rgb(141,6,17);
+    background: linear-gradient(90deg, rgba(141,6,17,1) 73%, rgba(56,11,25,1) 100%);
+  }
+
+ .footer-color{
+    background: rgb(141,6,17);
+    background: linear-gradient(90deg, rgba(141,6,17,1) 73%, rgba(56,11,25,1) 100%);
+
+ }    
+.adjectment{
+    width: 170px;
+    position: relative;
+    margin-top: 20px;
+    background-color: rgb(255, 140, 0);
+     color: white;
+
+
+}
+button{
+    position: relative;
+    margin-bottom: -22px;
+
+}
+.hcfv{
+    background: rgb(141,6,17);
+    background: linear-gradient(90deg, rgba(141,6,17,1) 73%, rgba(56,11,25,1) 100%); 
+}
+.hcfv1{
+    background: rgb(141,6,17);
+    background: linear-gradient(90deg, rgba(141,6,17,1) 73%, rgba(56,11,25,1) 100%);
+}
